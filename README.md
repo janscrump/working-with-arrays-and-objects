@@ -118,7 +118,7 @@ greeting(user); // 'Hello Steven';
 <summary><code> Nesting </code></summary>
 
 
-* [Nesting Loops](https://stackoverflow.com/a/36413506)
+* [Nesting Loops](hc)
 
 </details>
 
